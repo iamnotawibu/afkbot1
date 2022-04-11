@@ -1,0 +1,9 @@
+{
+	"ip":"NoobGamerVN.aternos.me",
+	"port": 32103,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register 01239191932 01239191932
+	"login-cmd":"/login 01239191932
+}
